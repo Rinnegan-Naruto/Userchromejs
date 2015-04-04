@@ -2,8 +2,9 @@
 // @name           SearchSimilarImage.uc.js
 // @description    Google以图搜图
 // @Author         ziyunfei
-// @homepageURL    http://www.cnblogs.com/ziyunfei/archive/2011/11/25/2263756.html
-// @downloadURL    http://files.cnblogs.com/files/ziyunfei/searchsimilarimage.uc.js
+// @modifier       lychichem
+// @homepageURL    https://github.com/lychichem/Userchromejs/tree/master/searchsimilarimage.uc.js
+// @downloadURL    https://raw.githubusercontent.com/lychichem/Userchromejs/master/searchsimilarimage.uc.js
 // @version        0.0.1
 // ==/UserScript==
 location == "chrome://browser/content/browser.xul" && (function () {
