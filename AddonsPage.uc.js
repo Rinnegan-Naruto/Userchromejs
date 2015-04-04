@@ -2,6 +2,7 @@
 // @name         AddonsPage.uc.js
 // @description  附件组件页面右键新增查看所在目录，详细信息页面新增安装地址或路径，新增 uc脚本管理页面。
 // @author       ywzhaiqi
+// @modifier     lychichem
 // @include      main
 // @charset      utf-8
 // @version      2014.09.11
