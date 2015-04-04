@@ -7,7 +7,7 @@
 // @charset      utf-8
 // @version      2014.09.11
 // @downloadURL  https://raw.githubusercontent.com/lychichem/Userchromejs/master/AddonsPage.uc.js
-// @homepageURL  https://github.com/lychichem/Userchromejs/tree/master/AddonsPage
+// @homepageURL  https://github.com/lychichem/Userchromejs/tree/master/AddonsPage.uc.js
 // @optionsURL   about:config?filter=view_source.editor.path
 // @note         - 附件组件页面右键新增查看所在目录（支持扩展、主题、插件）、复制名字。Greasemonkey、Scriptish 自带已经存在
 // @note         - 附件组件详细信息页面新增GM脚本、扩展、主题安装地址和插件路径，右键即复制
