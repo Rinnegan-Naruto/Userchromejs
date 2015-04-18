@@ -6,6 +6,7 @@
 // @include      about:stylish-edit*
 // @version      0.0.3.20150329
 // @homepageURL  http://tieba.baidu.com/p/2541544018
+// @downloadURL  https://raw.githubusercontent.com/lychichem/Userchromejs/master/StylishCustom2_0.0.3.uc.js
 // ==/UserScript==
 if(location.href.indexOf('about:stylish-edit') == 0) {
 /* 
