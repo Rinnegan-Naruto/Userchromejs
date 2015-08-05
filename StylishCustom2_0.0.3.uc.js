@@ -4,7 +4,8 @@
 // @namespace    stylishCustom2@uc.js
 // @author       Crab
 // @include      about:stylish-edit*
-// @version      0.0.3.20150329
+// @version      0.0.3.20150805
+// @charset      UTF-8
 // @homepageURL  http://tieba.baidu.com/p/2541544018
 // @downloadURL  https://raw.githubusercontent.com/lychichem/Userchromejs/master/StylishCustom2_0.0.3.uc.js
 // ==/UserScript==
