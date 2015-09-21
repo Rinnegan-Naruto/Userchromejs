@@ -577,7 +577,7 @@ location == "chrome://browser/content/browser.xul" && (function(){
                 \
                 @-moz-document url("about:addons"), url("chrome://mozapps/content/extensions/extensions.xul") {\
                     #category-userchromejs > .category-icon {\
-                        list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACnSURBVEhL7ZDRDcMgDAU9VwZinkzDMhmmDeaRxODGBIlWqnxf2EbvMPQNXtNwgYkLTP5VEANRiCjAti5tM108qIcMZqgKPQKuxa0YlnXD+SDnPxekG0pcy5ggnbviBwVymXuGBZ0L/FJQJ1z/RZt/QBdcwwpiq1Q0O6rk/FqAhPORbBRv5o5o7R1lK45XBDs5oqA9V97Q/wxDVBNwgYkLTFxgAsFEiN4kJdwGrzV26gAAAABJRU5ErkJggg==);\
+                        list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACnSURBVEhL7ZDbDcMgDEU9VvZhnSzDMNmlnw3GpBhuZIJEK1U+X/FD9+DQN3gtwwUmLjBxgQkWxEAUohTCsW99My1etENGZlIVRgRcq60Ytv2Q74uc/1yQNkBcz5wgfQ/FTwpql8W0YPCAXwrahEoA5zdgQR1WUFelorsRkvNbgSR8HslG9WbuqNbZAVdxPBCc5IgCeq7ewP9MhlItwAUmLjD5G8FCiN482ZarwWrjkwAAAABJRU5ErkJggg==);\
                     }\
                 }';
             let styleService = Cc["@mozilla.org/content/style-sheet-service;1"].getService(Ci.nsIStyleSheetService);
